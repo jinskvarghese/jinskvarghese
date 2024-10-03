@@ -1,4 +1,4 @@
-# <center>Hi👋I’m Jins</center>
+<h1 align="center">Hi 👋 I’m Jins</h1>
 ### Dynamic professional eager to leverage technology for innovative solutions. 
 
 - 👀 I’m interested in Data Science
@@ -25,11 +25,12 @@
 
 ### Connect with Me:
 
-- Discord: `itsflash#2675`
-- LinkedIn: [Satyam Shubham](https://www.linkedin.com/in/satyam-shubham-8a4805179)
-- GitHub: [itsflash](https://github.com/itsflash)
-- Instagram: [satyam_1007](https://www.instagram.com/satyam_1007)
-- Twitter: [satyamsworld](https://twitter.com/satyamsworld)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/JinsVarghese#7739)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jins-varghese/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinskvarghese)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.jins._)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jinskvarghese)
+
 
 <!---
 jinskvarghese/jinskvarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
