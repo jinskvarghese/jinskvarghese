@@ -1,5 +1,5 @@
 # <center>Hi👋I’m Jins</center>
-<center>** Dynamic professional eager to leverage technology for innovative solutions.**</center>
+** Dynamic professional eager to leverage technology for innovative solutions.**
 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning everything
