@@ -1,4 +1,6 @@
-- Hi👋I’m Jins
+# Hi👋I’m Jins
+## Dynamic professional eager to leverage technology for innovative solutions.
+
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
