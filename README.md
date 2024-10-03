@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I’m Jins</h1>
-### Dynamic professional eager to leverage technology for innovative solutions. 
+<h3 align="center"> Dynamic professional eager to leverage technology for innovative solutions. </h3>
 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning everything
