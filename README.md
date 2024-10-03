@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I’m Jins</h1>
 <h3 align="center"> Dynamic professional eager to leverage technology for innovative solutions. </h3>
+![Profile Views](https://komarev.com/ghpvc/?username=jinskvarghese&color=blue)
 
 
 
