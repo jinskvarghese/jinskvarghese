@@ -3,7 +3,6 @@
 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
 - ⚡Fun fact love tech, video editing and sports
 - 📫 How to reach me jinskv007@gmail.com
 
