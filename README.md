@@ -22,6 +22,15 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+
+### Connect with Me:
+
+- Discord: `itsflash#2675`
+- LinkedIn: [Satyam Shubham](https://www.linkedin.com/in/satyam-shubham-8a4805179)
+- GitHub: [itsflash](https://github.com/itsflash)
+- Instagram: [satyam_1007](https://www.instagram.com/satyam_1007)
+- Twitter: [satyamsworld](https://twitter.com/satyamsworld)
+
 <!---
 jinskvarghese/jinskvarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
