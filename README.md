@@ -1,4 +1,4 @@
-<center># Hi👋I’m Jins</center>
+#<center>Hi👋I’m Jins</center>
 <center>** Dynamic professional eager to leverage technology for innovative solutions.**</center>
 
 - 👀 I’m interested in Data Science
