@@ -3,7 +3,6 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=jinskvarghese&color=blue)
 
-![GitHub Contribution Snake](https://github.com/jinskvarghese/jinskvarghese/blob/output/github-contribution-grid-snake.svg)
 
 
 - 👀 I’m interested in Data Science
